@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
 
+# adding a comment
 # Sample data: list of 15 people with their cost and capability
 people = [
     {"name": "Alice", "cost": 200, "capability": 7},
